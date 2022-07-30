@@ -10,7 +10,7 @@ def most_frequent(string):
 print most_frequent('Mississippi')
 
 output
+m = 01
+p = 02
 i = 04
 s = 04
-p = 02
-m = 01
