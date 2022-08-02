@@ -5,7 +5,7 @@ print ("circumference of the circle is : %2 " % circumference)
 
 output
 enter the radius of the circle : 1.1
-The circumference of circle is :3.80132
+circumference of circle is :3.80132
   
   filename = input ("Input the filename :")
   f_extns = filename .split (".")
