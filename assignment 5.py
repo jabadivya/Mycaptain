@@ -1,10 +1,11 @@
-from math import pi
-r = float ("input the circumference of circle:")
-print (" The circumference of circle "+ str () + is : " + str (pi*r**2)")
+import math
+radius = float(input("enter radius of the circle :"))
+circumference = 2 * math.pi *radius
+print ("circumference of the circle is : %2 " % circumference)
 
-output 
-input the circumference of circle 1.1
-The circumference of circle 1.1 is :3.80132
+output
+enter the radius of the circle : 1.1
+The circumference of circle is :3.80132
   
   filename = input ("Input the filename :")
   f_extns = filename .split (".")
